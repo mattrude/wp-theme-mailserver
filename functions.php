@@ -1,4 +1,6 @@
 <?php
+
+include_once('mdr-network/webmaster-tools.php');
 /**
  * Set the content width based on the theme's design and stylesheet.
  */
