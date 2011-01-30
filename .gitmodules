@@ -1,0 +1,3 @@
+[submodule "mdr-network"]
+	path = mdr-network
+	url = git@github.com:mattrude/mdr-network.git
